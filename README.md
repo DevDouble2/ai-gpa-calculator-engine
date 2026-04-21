@@ -14,25 +14,31 @@ Experience the full AI-driven academic diagnostic engine live:
 
 ---
 
+## 📖 Academic Whitepaper & Strategy Insights
+For a deep dive into our Llama 3 diagnostic methodology, Science GPA clinical readiness frameworks, and T14 admission forecasting models, refer to our official briefing:  
+📑 **[AI GPA Diagnostic Engine: Smart Admission Audits & Grade Forecasting](https://telegra.ph/AI-GPA-Diagnostic-Engine-Smart-Admission-Audits--Grade-Forecasting-2026-04-09)**
+
+---
+
 ## 🛠️ Technical Overview
 This repository serves as the core logic foundation for the **AI GPA Calculator** platform. Unlike traditional static calculators, this engine focuses on:
 
-* **Admission Audits**: Comprehensive AI analysis of your GPA for specific admission targets.
-* **Clinical Readiness**: Specialized tracking for premed Science GPAs.
-* **Strategy Reports**: Forecasting grade improvements and strategy for top-tier tracks like T14 Law Schools.
+* **Admission Audits**: Comprehensive AI analysis of your GPA for specific admission targets (Ivy League, UC Systems).
+* **Clinical Readiness**: Specialized tracking for premed Science GPAs and nursing prerequisite audits.
+* **Strategy Reports**: Forecasting grade improvements and "What-If" scenarios for competitive tracks.
 
 ### Key Features
-- **Llama 3 Integration**: Advanced language models diagnosing academic standing.
-- **Dynamic Forecasting**: Projecting future GPA needs and scenarios.
-- **Lightweight Arch**: Optimized for seamless edge delivery.
+- **Llama 3 Integration**: Advanced language models diagnosing academic standing and admission probability.
+- **Dynamic Forecasting**: Real-time projection of future GPA needs based on cumulative ballast logic.
+- **Edge-Ready Architecture**: Optimized for high-performance delivery via Cloudflare/Next.js stacks.
 
 ---
 
 ## 📊 Core Diagnostic Methodology
 The engine implements a multi-layer analysis approach:
-1. **Input Layer**: Translates transcript data and course credits.
-2. **Analysis Layer**: Benchmarks against historical admissions data.
-3. **Report Layer**: Generates professional academic reports.
+1. **Input Layer**: Translates transcript data and course credits into weighted vectors.
+2. **Analysis Layer**: Benchmarks against standardized institutional admission datasets.
+3. **Report Layer**: Generates professional, actionable academic strategy reports.
 
 ---
 
@@ -43,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✉️ Contact & Support
 Developed by **DevDouble2**. For business inquiries or API access to the diagnostic engine, please visit our official site:  
-**[AI GPA Calculator](https://gpacalcs.app/)**
+**[Official GPACalcs Hub](https://gpacalcs.app/)**
